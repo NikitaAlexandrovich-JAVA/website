@@ -1,0 +1,107 @@
+BODY{
+    text-align: center; 
+    background: url("resources/plain.jpg");
+    padding: 20px;
+    background-clip: border-box;
+    background-position: center;}
+   
+    .enter-registration-contener{
+      
+        margin-left: 5%;
+        margin-right: 5%;
+        width:  90%;
+        height: 90%;
+        text-align: right;
+        border: 2 px solid #ffffff ;
+        padding-bottom: 20px ;
+       
+    }
+    .enter a{
+
+       font-size: 20px;
+       color: #ffffff;
+       background-color: #b60404;
+       border-radius: 10px;
+       padding: 10px;
+        
+       text-decoration: none;
+       
+        
+    }
+
+    .registration a{
+        
+         display: inline-block;
+
+        font-size: 20px;
+        color: white;
+        background-color: green;
+        border-radius: 10px;
+        padding: 10px;
+        text-decoration: none;
+    }
+
+
+    .enter a:hover{
+        background-color: #f89292;
+    }
+
+
+    .registration a:hover{
+    background-color: #29f06b;
+    }   
+
+    .information-conteiner{
+        margin-top: 2%;
+        margin-left: 5%;
+        margin-right: 5%;
+        width:  90%;
+        height: 90%;
+        
+        background-image: url("resources/backgroundFild2.jpg");
+        background-color: white;
+        border-radius: 50px;
+        border: 5px solid #013f72;
+     
+       
+    }
+    .menu{
+      display: inline-block;
+      width: 90%;
+      white-space: nowrap; 
+      margin-left: 5%;
+      margin-right: 5%;
+      
+    }
+    .item{
+    
+        float: left; 
+        color:white;
+        width: 20%;
+	    background:  #013f72; 
+	    border-left: 0px solid white 
+        
+    }
+    .item A {
+
+        font-size: 25px;
+        font-variant: normal;
+        margin-top:center;
+        padding-top: 20px;
+        padding-bottom:20px;
+	    text-decoration: none;
+	    color: #E0FFFF;
+	    display: block;
+	
+	}
+	.item A:hover {
+         color: #000080;
+         border-radius:20px;
+	     background: #ADD8E6;
+	
+	}
+    address{
+         display: inline-block;
+    }
+
+   
