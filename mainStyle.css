@@ -16,6 +16,8 @@ BODY{
         padding-bottom: 20px ;
        
     }
+   
+    
     .enter a{
 
        font-size: 20px;
@@ -100,6 +102,17 @@ BODY{
 	     background: #ADD8E6;
 	
 	}
+    .information-contacts{
+        width: 90%;
+        height: 50px;
+        margin-top: 10px;
+        margin-left: 5%;
+        margin-right: 5%;
+       
+        display: inline-block;
+       
+       
+    }
     address{
          display: inline-block;
     }
